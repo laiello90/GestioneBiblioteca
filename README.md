@@ -30,14 +30,17 @@ mysql-connector-java-5.1.20-bin.jar<br/>
 # Descrizione
 
 Il progetto in questione prevedeva la creazione di un software per la gestione di una biblioteca in linguaggio JAVA con le seguenti caratteristiche:
-•	Gestione dei volumi disponibili all’interno della biblioteca.
-•	Gestione degli utenti di diversa tipologia: (Utente, Bibliotecario, Amministratore).
-•	Gestione dei prestiti a carico degli utenti.
-•	Inserimento e rimozione di libri e utenti dall’archivio.
-•	Invio di solleciti di restituzione libri via email da parte dell’amministratore della piattaforma per i prestiti protratti entro una certa durata.
-Inoltre era necessario realizzare la base di dati a supporto del software, realizzata con MySQL e connessa al software tramite driver JDBC e la documentazione allegata in UML del progetto che presenta:
-•	Diagrammi dei casi d’uso e scenari di utilizzo
-•	Diagrammi delle attività
-•	Diagrammi di sequenza
-•	Diagramma delle classi
-•	Diagramma dei Package
+1.	Gestione dei volumi disponibili all’interno della biblioteca.
+2.	Gestione degli utenti di diversa tipologia: (Utente, Bibliotecario, Amministratore).
+3.	Gestione dei prestiti a carico degli utenti.
+4.	Inserimento e rimozione di libri e utenti dall’archivio.
+5.	Invio di solleciti di restituzione libri via email da parte dell’amministratore della piattaforma per i prestiti protratti entro una certa durata temporale.
+
+Inoltre era necessario realizzare la base di dati a supporto del software, realizzata con MySQL e connessa al software tramite driver JDBC nonchè la documentazione allegata in UML del progetto che presenta:<br/><br/>
+•	Diagrammi dei casi d’uso e scenari di utilizzo<br/><br/>
+•	Diagrammi delle attività<br/><br/>
+•	Diagrammi di sequenza<br/><br/>
+•	Diagramma delle classi<br/><br/>
+•	Diagramma dei Package<br/>
+
+La documentazione è presente nella repository.
