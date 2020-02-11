@@ -1,4 +1,4 @@
-# GestioneBiblioteca
+# Gestione Biblioteca
 Repository per la tesina del corso di Programmazione Avanzata e Progettazione del Software
 
 # Requisiti del sistema
