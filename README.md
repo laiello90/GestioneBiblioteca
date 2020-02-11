@@ -5,19 +5,19 @@ Repository per la tesina del corso di Programmazione Avanzata e Progettazione de
 1. MySQL server
 2. Java Virtual Machine
 
-MySQL reperibile sul disco oppure all'indirizzo  http://www.mysql.it/downloads/mysql 
+MySQL reperibile sul disco oppure all'indirizzo  http://www.mysql.it/downloads/mysql <br/>
 Java reperibile sul disco oppure all'indirizzo  http://www.java.com/it/download/
 
 # Guida all'installazione
 
-Dopo aver installato e configurato MySQL, aprire il prompt dei comandi (MySQL Command Line Client)
-e caricare il database con il comando \. \percorsodelfile\Database.sql
+Dopo aver installato e configurato MySQL, aprire il prompt dei comandi (MySQL Command Line Client)<br/>
+e caricare il database con il comando \. \percorsodelfile\Database.sql <br/>
 
 A questo punto per eseguire il progetto è sufficiente eseguire il file Biblioteca.jar
 
-Per iniziare ad usare il programma si può accedere con l'amministratore di default:
-Username = admin
-Password = admin
+Per iniziare ad usare il programma si può accedere con l'amministratore di default:<br/>
+Username = admin<br/>
+Password = admin<br/>
 
 Note
 
