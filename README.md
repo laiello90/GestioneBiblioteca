@@ -22,10 +22,10 @@ Password = admin<br/>
 Note
 
 Per aprire il progetto in Eclipse è necessario aggiungere al progetto le seguenti librerie presenti
-nella cartella del progetto come librerie esterne:
-itextpdf.jar
-mail.jar
-mysql-connector-java-5.1.20-bin.jar
+nella cartella del progetto come librerie esterne:<br/>
+itextpdf.jar<br/>
+mail.jar<br/>
+mysql-connector-java-5.1.20-bin.jar<br/>
 
 # Descrizione
 
